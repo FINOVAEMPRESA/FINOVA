@@ -161,14 +161,14 @@ header .container {
 }
 
 .logo img {
-    height: 200px; /* Ajusta según el tamaño que necesites */
+    height: 100px; /* Ajusta según el tamaño que necesites */
     width: auto;
-    margin-bottom: .5px; /* Espacio entre el logo y el texto */
+    margin-bottom: 0.5px; /* Espacio entre el logo y el texto */
 }
 
 .logo p {
     margin: 0;
-    font-size: 12px;
+    font-size: 10px;
     color: #666;
 }
 
